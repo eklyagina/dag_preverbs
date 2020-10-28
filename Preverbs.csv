@@ -1,0 +1,38 @@
+id,lang,group/family,idiom,type,core,value,source,page,comment
+1,Agul,Lezgic,Agul,idiom,yes,12,magometov1970,158-165,3 slots
+2,Agul,Lezgic,Huppuq',village,no,12,maisakganenkov2016,3585-3590,2 slots
+3,Akhvakh,Andic,Northern Akhvakh,idiom,yes,0,"magomedbekova1967, creissels2016",,
+4,Andi,Andic,Andi,idiom,yes,0,cercvadze1965,,
+5,Archi,Lezgic,Archib,village,yes,0,"kibrik1977, chumakina2016",ch: 3600-3601,only historical preverbs in some verbs
+6,Armenian,Armenian,Modern Eastern Armenian,idiom,yes,24,dum-tragut2009,647-651,
+7,Avar,Avar,Standard Avar,idiom,yes,0,"gamzatov1983, alekseevetal2012","236-242, 147-148",adverbs  are in the process of morphologization
+8,Azerbaijani,Turkic,Standard Azerbaijani,idiom,yes,0,sirəliyevsevortyan1971,,
+9,Bagvalal,Andic,Kvanada,village,yes,0,kibrik2001,,
+10,Bats,Nakh,Bats,village,yes,5,desheriev1953,"81, 137, 152-153",
+11,Bezhta,Tsezic,Bezhta,village,yes,0,madieva1965,,
+12,Botlikh,Andic,Botlikh,village,yes,0,alekseyevverhees2020,,
+13,Budukh,Lezgic,Budukh,village,yes,17,authierhaciyev2016,3560-3561,
+14,Chamalal,Andic,Upper Gakvari,village,yes,0,bokarev1949,,
+15,Chechen,Nakh,Standard Chechen,idiom,yes,9,nichols1994,36,
+16,Dargwa,Dargwa,Standard Dargwa (Akusha),idiom,yes,18,abdullaev1954,158-162,
+17,Dargwa,Dargwa,Mehweb,village,no,5,danieletal2019,108-109,
+18,Dargwa,Dargwa,Itsari,village,no,12,sumbatovamutalov2003,62-63,
+19,Dargwa,Dargwa,Kubachi,village,no,10,magometov1963,179-181,
+20,Godoberi,Andic,Godoberi,idiom,yes,0,kibrikatal1996,,
+21,Hinuq,Tsezic,Hinuq,idiom,yes,0,forker2013,191,
+22,Hunzib,Tsezic,Hunzib,idiom,yes,0,vandenberg1995,74,
+23,Ingush,Nakh,Ingush,idiom,yes,21,nichols2011,346-369,
+24,Karata,Andic,Karata,idiom,yes,0,magomedbekova1971,,
+25,Khinalug,Khinalug,Khinalug,village,yes,10,schulze2016khinalug,3615,
+26,Khwarshi,Tsezic,Kwantlada,village,yes,0,khalilova2009,,
+27,Kryz,Lezgic,Alik,village,yes,15,authier2009,127-133,in french
+28,Kumyk,Turkic,Standard Kumyk,idiom,yes,0,abdullaevaetal2014,,
+29,Lak,Lak,Standard Lak (Kumukh),idiom,yes,0,schulze2016lak,3624,historical preverbs
+30,Lezgian,Lezgic,Standard Lezgian,idiom,yes,22,haspelmath1993,167-174,
+31,Nogai,Turkic,Nogai,idiom ,yes,0,baskakov1940,,
+32,Rutul,Lezgic,Mukhad,idiom,yes,14,"alekseev1994, alekseev2016",226-228; 3543,
+33,Tabasaran,Lezgic,Tabasaran,idiom,yes,7,"alekseevshixalieva2003, magometov1965",61; 218,
+34,Tindi,Andic,Tindi,idiom,yes,0,magometova2012,,
+35,Tsakhur,Lezgic,Mishlesh,village,yes,0,kibriketal1999,58,"lexemes with historical preverbs, no list of preverbs"
+36,Tsez,Tsezic,Kedero,village,yes,0,bokarev1959,,
+37,Udi,Lezgic,Nidzh,village,yes,0,"maisak2008, schulze2016udi","104-105, 3576",lexeme with historical preverbs
